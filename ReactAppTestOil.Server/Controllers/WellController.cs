@@ -26,13 +26,11 @@ namespace ReactAppTestOil.Controllers
         /// GET: api/Wells
         /// </summary>
         /// <returns></returns>
-        [HttpGet("GetWells")] // [HttpPost, ActionName("GetWells")] // 
+        [HttpGet("GetWells")]
         [ProducesResponseType(200, Type = typeof(IEnumerable<Well>))]
         public async Task<ActionResult<List<Well>>> GetWells()
         {
             var wells = await _wellRepository.GetWells();
-
-           // var wells1 = _mapper.Map<List<WellDto>>(_wellRepository.GetWells());
 
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -72,7 +70,6 @@ namespace ReactAppTestOil.Controllers
 
             return Ok(wells);
         }
-
 
         /// <summary>
         /// GET: api/ActiveWellsByCompany

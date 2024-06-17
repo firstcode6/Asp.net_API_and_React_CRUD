@@ -12,7 +12,7 @@ function App() {
     const [wells, setWells] = useState<Well[]>();
 
     useEffect(() => {
-        populateWeatherData();
+        populateWellData();
     }, []);
 
     const contents = wells === undefined
@@ -46,8 +46,7 @@ function App() {
         </div>
     );
 
-    async function populateWeatherData() {
-        //const response = await fetch('weatherforecast');
+    async function populateWellData() {
         const response = await fetch('api/Well/GetWells');
         const data = await response.json();
         setWells(data);
