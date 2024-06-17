@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\ravil\\source\\repos\\Published_in_github\\AspNet_API_CRUD_and_React\\ReactAppTestOil.Server\\..\\reactapptestoil.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

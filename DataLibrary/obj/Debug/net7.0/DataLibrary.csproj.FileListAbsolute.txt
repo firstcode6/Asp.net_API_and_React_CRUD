@@ -1,0 +1,11 @@
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\bin\Debug\net7.0\DataLibrary.deps.json
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\bin\Debug\net7.0\DataLibrary.dll
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\bin\Debug\net7.0\DataLibrary.pdb
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfo.cs
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\DataLibrary.dll
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\refint\DataLibrary.dll
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\DataLibrary.pdb
+C:\Users\ravil\source\repos\ReactAppTestOil\DataLibrary\obj\Debug\net7.0\ref\DataLibrary.dll

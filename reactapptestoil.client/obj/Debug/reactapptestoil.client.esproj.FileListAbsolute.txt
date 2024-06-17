@@ -1,0 +1,2 @@
+C:\Users\ravil\source\repos\ReactAppTestOil\reactapptestoil.client\obj\Debug\reactapptestoil.client.esproj.CoreCompileInputs.cache
+C:\Users\ravil\source\repos\Published_in_github\AspNet_API_CRUD_and_React\reactapptestoil.client\obj\Debug\reactapptestoil.client.esproj.CoreCompileInputs.cache
