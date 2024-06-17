@@ -1,5 +1,5 @@
 
-**Key technologies:** *ASP.NET Core Web API, React, NET 7, C#, Typescript, Sqlite, Entity Framework, CRUD, HttpClient, *
+**Key technologies:** *ASP.NET Core Web API, React, NET 7, C#, Typescript, Sqlite, Entity Framework, CRUD, HttpClient*
 
 ## Information
 CRUD operations in API. Server(API) and client (React) connection using HttpClient.
